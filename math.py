@@ -18,4 +18,4 @@ def remainder(r,q):
     answer=r%q
     return answer   
 
-            
+          
